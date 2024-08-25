@@ -1,5 +1,5 @@
 # Hello I'm Nikita!
-## :computer: I'm currently studying in IU7 BMSTU!
+## :computer: I'm currently studying at the [Department of Software Engineering](https://iu7.bmstu.ru/) at [BMSTU](https://bmstu.ru/).
 
 ## Here are my stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikdevelop&theme=apprentice)
